@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+MesserViewTool::Render.copyright 'Rick Messer','Make It Happen'
+```
 
 ## Development
 
